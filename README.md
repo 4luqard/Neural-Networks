@@ -1,2 +1,2 @@
-# Neurel-Networks
-Exploring the Fundamentals of Neurel Networks
+# Neural-Networks
+Exploring the Fundamentals of Neural Networks
